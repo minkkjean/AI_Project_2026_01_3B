@@ -41,7 +41,7 @@ MarkDown 내용 정리
 Click [Ny git hub](https://github.com/내주소)
 
 <!-- Image -->
-![Image](https://github.com/shingugitver000/AI_Project/blob/main/Controlnet/Pixel.png?raw=true)
+![Image](https://lively-kumquat-018.notion.site/image/attachment%3A3f4690a5-3abb-4302-8e4c-793df62e6b94%3Aimage.png?table=block&id=32c874ae-77f7-80fa-9057-c0c2ae2ee2c0&spaceId=f78874ae-77f7-8130-9648-0003b044c01c&width=2000&userId=&cache=v2)
 
 <!-- Table -->
 |Header|Description|Other|
